@@ -136,7 +136,7 @@ function postorder(nodo, resultado = []) {
 
         // si llega algun valor de los que no estan aqui
         console.log('Este elemento no es permitido' + t);
-    SACADO DE LA WEB
+                                                                                                                            SACADO DE LA WEB
     return aux();
 }*/
 
